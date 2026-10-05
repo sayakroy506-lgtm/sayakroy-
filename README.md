@@ -2,7 +2,7 @@
 
 ### PhD Researcher in Condensed Matter Physics
 
-📍 National Cheng Kung University (NCKU), Taiwan
+National Cheng Kung University (NCKU), Taiwan
 
 I am a PhD researcher in Condensed Matter Physics interested in understanding
 emergent quantum phenomena in superconductors, quantum materials, and
@@ -14,16 +14,16 @@ and quantum phenomena.
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
-- 🧲 Superconductivity
-- ⚡ Superconducting Diode Effect (SDE)
-- 🌀 Rashba & Dresselhaus Spin–Orbit Coupling
-- 🌊 FFLO & Helical Superconductivity
-- 🧿 Topological Phases & Topological Insulators
-- 🔗 Quantum Materials
-- 💻 Computational Condensed Matter Physics
-- ⚛️ Quantum Computing & Quantum Error Mitigation
+- Superconductivity
+- Superconducting Diode Effect (SDE)
+- Rashba & Dresselhaus Spin–Orbit Coupling
+- FFLO & Helical Superconductivity
+- Topological Phases & Topological Insulators
+- Quantum Materials
+- Computational Condensed Matter Physics
+- Quantum Computing & Quantum Error Mitigation
 
 ---
 
