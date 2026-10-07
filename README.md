@@ -9,7 +9,7 @@ emergent quantum phenomena in superconductors, quantum materials, and
 topological systems.
 
 My work combines theoretical physics, numerical simulations, and scientific
-computing to study superconductivity, spin–orbit coupling, topological phases,
+computing to study superconductivity, topological phases,
 and quantum phenomena.
 
 ---
@@ -17,9 +17,6 @@ and quantum phenomena.
 ## Research Interests
 
 - Superconductivity
-- Superconducting Diode Effect (SDE)
-- Rashba & Dresselhaus Spin–Orbit Coupling
-- FFLO & Helical Superconductivity
 - Topological Phases & Topological Insulators
 - Quantum Materials
 - Computational Condensed Matter Physics
@@ -27,12 +24,10 @@ and quantum phenomena.
 
 ---
 
-## 🧪 Research & Projects
+## Research & Projects
 
 ### Superconductivity & Spin–Orbit Coupling
-Numerical investigation of superconducting phases in systems with
-Rashba and Dresselhaus spin–orbit coupling, including finite-momentum
-pairing and nonreciprocal superconducting transport.
+Numerical investigation of superconducting phases in strongly correlated systems.
 
 ### Topological Physics
 Study of one-dimensional topological systems, including SSH models,
@@ -44,11 +39,11 @@ Exploring quantum error mitigation, noisy intermediate-scale quantum
 
 ### Scientific Computing
 Development of numerical simulations using Python, MATLAB, Mathematica,
-Geant4, and other scientific-computing tools.
+HPC, and other scientific-computing tools.
 
 ---
 
-## 📚 Publication
+## Publication
 
 **Exploring Topological and Localization Phenomena in SSH Chains under
 Generalized AAH Modulation**
@@ -57,7 +52,7 @@ Generalized AAH Modulation**
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 **Programming**
 
@@ -65,7 +60,7 @@ Python · MATLAB · Mathematica
 
 **Scientific Computing**
 
-NumPy · SciPy · Jupyter · KWANT · Geant4
+NumPy · SciPy · Jupyter · KWANT 
 
 **Quantum Computing**
 
@@ -81,7 +76,7 @@ SLURM · HPC · Scientific Computing
 
 ---
 
-## 🎓 Education
+## Education
 
 **PhD — Condensed Matter Physics**  
 National Cheng Kung University, Taiwan
@@ -90,11 +85,11 @@ National Cheng Kung University, Taiwan
 Adamas University
 
 **B.Sc. (Hons.) — Physics**  
-The Heritage College, University of Calcutta
+University of Calcutta
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 - 💻 GitHub: [@sayakroy506-lgtm](https://github.com/sayakroy506-lgtm)
 - 🔬 Google Scholar: *Coming soon*
