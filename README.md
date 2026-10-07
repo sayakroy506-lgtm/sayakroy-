@@ -91,11 +91,11 @@ University of Calcutta
 
 ## Connect With Me
 
-- 💻 GitHub: [@sayakroy506-lgtm](https://github.com/sayakroy506-lgtm)
-- 🔬 Google Scholar: *Coming soon*
-- 🆔 ORCID: *Coming soon*
-- 💼 LinkedIn: *Coming soon*
-- 📧 Email: *Available on request*
+- GitHub: [@sayakroy506-lgtm](https://github.com/sayakroy506-lgtm)
+- Google Scholar: *Coming soon*
+- ORCID: *Coming soon*
+- LinkedIn: linkedin.com/in/sayak-roy-499387369
+- Email: *Available on request*
 
 ---
 
